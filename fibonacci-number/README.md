@@ -2,4 +2,4 @@
 
 ---
 
-No description available.
+LeetCode solution synced automatically.
